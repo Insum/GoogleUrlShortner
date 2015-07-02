@@ -1,0 +1,7 @@
+C:\Develop\DOTNET\BitlyLinkConverter\BitlyLinkConverter\bin\Debug\BitlyLinkConverter.exe.config
+C:\Develop\DOTNET\BitlyLinkConverter\BitlyLinkConverter\bin\Debug\BitlyLinkConverter.exe
+C:\Develop\DOTNET\BitlyLinkConverter\BitlyLinkConverter\bin\Debug\BitlyLinkConverter.pdb
+C:\Develop\DOTNET\BitlyLinkConverter\BitlyLinkConverter\obj\Debug\BitlyLinkConverter.csprojResolveAssemblyReference.cache
+C:\Develop\DOTNET\BitlyLinkConverter\BitlyLinkConverter\obj\Debug\BitlyLinkConverter.exe
+C:\Develop\DOTNET\BitlyLinkConverter\BitlyLinkConverter\obj\Debug\BitlyLinkConverter.pdb
+C:\Develop\DOTNET\BitlyLinkConverter\BitlyLinkConverter\obj\Debug\BitlyLinkConverter.csproj.ResolveComReference.cache
